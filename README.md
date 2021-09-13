@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Helena
-- 👀 I’m interested in using programming to help make people's lives easier
-- 🌱 I’m currently learning Socket.io, Express, and postgreSQL
+- 👋 Hi, I’m Helena Vaquera
+- 👀 I’m a Full Stack Developer focused on React and .NET
