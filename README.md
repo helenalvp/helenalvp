@@ -2,7 +2,7 @@
 
 
 <h1>Hey, I'm Helena</h1><hr/>
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default&animation=grow_out_in)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
 
 
 
