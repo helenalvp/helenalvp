@@ -24,7 +24,7 @@ const helenalvp = {
 
 [![Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=helenalvp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Social Medias
+### Socials
 
 Linkedin: [@helenalvp](https://www.linkedin.com/in/helenalvp/)
 Website: [helenalvp.com](https://helenalvp.com/)
