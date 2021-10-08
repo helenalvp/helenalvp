@@ -3,8 +3,6 @@
 
 # Hey, I'm Helena
 
-I am a Full Stack Web Developer. 
-
 ## About Me
 
 ```javascript 
