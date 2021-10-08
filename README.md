@@ -4,7 +4,7 @@
 <h1>Hey, I'm Helena</h1><hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helenalvp&theme=dark&show_icons=true" />
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=helenalvp&theme=dark&show_icons=true" />
 </a>
 
 
@@ -17,7 +17,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helenalvp&repo=cart-checker&theme=dark" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=helenalvp&repo=cart-checker&theme=dark" />
 </a>
 
 
