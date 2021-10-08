@@ -3,7 +3,15 @@
 
 # Hey, I'm Helena
 
-I am a Full Stack Developer
+I am a Full Stack Web Developer. 
+
+## About Me
+
+```javascript 
+const helenalvp = {
+        languages: ["Javascript", "C#", "SQL"],
+      }
+```
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
 [![Stats Card](https://github-readme-stats.vercel.app/api?username=helenalvp&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
