@@ -19,10 +19,14 @@ const helenalvp = {
 ```
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
+
 [![Stats Card](https://github-readme-stats.vercel.app/api?username=helenalvp&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=helenalvp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Social Medias
 
+Linkedin: [![LinkedIn](https://www.linkedin.com/in/helenalvp/)]
 
 
 
