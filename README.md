@@ -7,10 +7,16 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=helenalvp)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenalvp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=helenalvp&repo=cart-checker)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helenalvp&repo=cart-checker" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=helenalvp&repo=cart-checker" />
+</a>
+
 
 
 
