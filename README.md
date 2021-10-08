@@ -9,10 +9,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=helenalvp&theme=dark" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/wakatime?username=helenalvp&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenalvp&layout=compact&theme=dark" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenalvp&layout=compact&theme=dark" />
 </a>
 
 
