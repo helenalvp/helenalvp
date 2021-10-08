@@ -26,7 +26,8 @@ const helenalvp = {
 
 ### Social Medias
 
-Linkedin: [![LinkedIn](https://www.linkedin.com/in/helenalvp/)]
+Linkedin: [@helenalvp](https://www.linkedin.com/in/helenalvp/)
+Website: [helenalvp.com](https://helenalvp.com/)
 
 
 
