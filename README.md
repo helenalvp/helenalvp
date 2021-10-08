@@ -11,7 +11,7 @@ I am a Full Stack Web Developer.
 const helenalvp = {
         programmingLanguages: [Javascript, C#, HTML, CSS, SQL],
         frontEndTools: [React.js, jQuery, Bootstrap, AJAX, React Router, Material UI],
-        <!-- Middle Tier and Back end Tools Below -->
+        // Middle Tier and Back end Tools Below 
         backEndTools: [ASP.NET, "SQL Server ADO",".NET Core 3.1" ],
         languages: Spanish,
       }
