@@ -20,7 +20,7 @@ const helenalvp = {
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default&count_private=true)
 
-[![Stats Card](https://github-readme-stats.vercel.app/api?username=helenalvp&theme=dark&show_icons=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats Card](https://github-readme-stats.vercel.app/api?username=helenalvp&theme=dark&show_icons=true&hide=stars,issues,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=helenalvp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
