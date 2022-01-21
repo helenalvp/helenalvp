@@ -26,7 +26,7 @@ const helenalvp = {
 
 Linkedin: [@helenalvp](https://www.linkedin.com/in/helenalvp/)
 Website: [helenalvp.com](https://helenalvp.com/)
-Blog: [@hashnode](https://helenasdesk.hashnode.dev/)
+Blog: [helenasdesk.hashnode.dev](https://helenasdesk.hashnode.dev/)
 
 
 
