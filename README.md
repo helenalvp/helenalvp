@@ -20,14 +20,13 @@ const helenalvp = {
 
 [![Stats Card](https://github-readme-stats.vercel.app/api?username=helenalvp&theme=dark&show_icons=true&hide=stars,issues,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Langs Card](https://github-readme-stats.vercel.app/api/top-langs/?username=helenalvp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=helenalvp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Socials
 
 Linkedin: [@helenalvp](https://www.linkedin.com/in/helenalvp/)
 Website: [helenalvp.com](https://helenalvp.com/)
+Blog: [@hashnode](https://helenasdesk.hashnode.dev/)
 
 
 
