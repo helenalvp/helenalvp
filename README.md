@@ -16,7 +16,6 @@ const helenalvp = {
       }
 ```
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default&count_private=true)
 
 [![Stats Card](https://github-readme-stats.vercel.app/api?username=helenalvp&theme=dark&show_icons=true&hide=stars,issues,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
