@@ -2,7 +2,7 @@
 
 
 # Hey, I'm Helena
-I am a web developer. I have a passion for learning and unleashing my creativity in multiple outlets. I'm currently focusing on React.js projects as well as finishing up my personal blog site I'm creating from scratch in .NET. 
+I have a passion for learning and unleashing my creativity in multiple outlets.
 
 ## About Me
 
